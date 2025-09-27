@@ -25,7 +25,8 @@ A aplicação permite que o usuário organize suas tarefas em colunas, com a fun
 
 ### Tela do Quadro Kanban
 
-![Prévia do Projeto Quadro Kanban](https://github.com/user-attachments/assets/coloque-aqui-o-link-da-imagem)
+<img width="1281" height="704" alt="image" src="https://github.com/user-attachments/assets/3ce972cd-3669-45c8-812f-7ae10d41ae67" />
+
 
 🔗 **Acesse o projeto online:**
 👉 [Clique aqui para visualizar](https://leonardomartinsb.github.io/Projeto-Kanban/)
